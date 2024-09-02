@@ -1,14 +1,6 @@
-# vue-projectzohoCRM-widget-template
+# zoho_widget_template_vue-tailwind
 
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+This template should kickstart your Vue+Tailwind+Vite zoho widget development
 
 ## Project Setup
 
@@ -45,4 +37,21 @@ npm run test:unit
 
 ```sh
 npm run lint
+```
+
+## Default tailwind classes
+
+```
+.zoho-btn
+Classic blue main zoho button
+```
+
+```
+.zoho-secondary-btn
+Secondary (gray) zoho button
+```
+
+```
+.font-zoho
+Zoho's text font
 ```
