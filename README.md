@@ -1,5 +1,7 @@
 # zoho_widget_template_vue-tailwind
 
+Originally not mine, just modified. Can't find the source now.
+
 This template should kickstart your Vue+Tailwind+Vite zoho widget development
 
 ## Project Setup
